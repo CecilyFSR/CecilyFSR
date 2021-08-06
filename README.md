@@ -2,7 +2,7 @@
 - 👀 I’m interested in user documentation and technical communication
 - 🌱 I’m currently learning Git
 - 💞️ I’m looking to collaborate on user documentation
-- 📫 How to reach me here
+- 📫 Reach me here, on GitHub
 
 <!---
 CecilyFSR/CecilyFSR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
